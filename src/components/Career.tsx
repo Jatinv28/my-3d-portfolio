@@ -37,13 +37,13 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Took Drop And Again Gave JEE </h4>
+                <h4>Took Drop And Gave JEE Again  </h4>
                 <h5>Esaral Online Coaching</h5>
               </div>
               <h3>2026</h3>
             </div>
-            <p>
-             I Got Admission in IIIT Hyderabad in CS Branch
+            <p> STORY COMING SOON...
+             
             </p>
           </div>
         </div>

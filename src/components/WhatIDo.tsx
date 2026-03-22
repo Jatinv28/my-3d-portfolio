@@ -87,21 +87,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>Student In IIIT Hyderabad </h3>
-              <h4>Computer Science</h4>
+              <h3></h3>
+              <h4></h4>
               <p>
-               Currently upscaling my skills in web development.
+                  COMING SOON...
               </p>
-              <h5>Skillset & tools</h5>
+              <h5></h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"> </div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -123,23 +123,23 @@ const WhatIDo = () => {
                 />
               </svg>
             </div>
-            <div className="what-corner">_______________</div>
+            <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>____________</h3>
-              <h4>_____________________________</h4>
+              <h3></h3>
+              <h4></h4>
               <p>
-              ______________________________________________________________-
+                  COMING SOON...
               </p>
-              <h5>Skillset & tools</h5>
+              <h5></h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
               </div>
               <div className="what-arrow"></div>
             </div>
