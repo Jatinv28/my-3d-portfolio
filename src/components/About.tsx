@@ -7,6 +7,14 @@ const About = () => {
         <h3 className="title">About Me</h3>
         <p className="para">
          ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+
+
+
+
+
 🦁 JATIN VERMA
 
 Aspiring Software Engineer | Future Tech Entrepreneur | Visionary 💎
