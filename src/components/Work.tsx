@@ -32,7 +32,7 @@ const projects = [
     title: "Mpro",
     category: "Insurance Platform",
     tools: "React.js, Node.js, Microservices",
-    image: "/images/Maxlife.png",
+    image: "/images/jatin_1.png",
   },
 ];
 
