@@ -6,34 +6,46 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 const projects = [
   {
     title: " JAVIB AI ",
-    category: "UPCOMING PROJECT",
-    tools: "AI PERSONAL ASSISTANT",
+    category: "AI PERSONAL ASSISTANT",
     image: "/images/JAVIB AI.png",
+    tools: "React • TypeScript • AI/ML • Speech Recognition • Natural Language Processing",
   },
-  {
-    title: "PROJECT 2",
-    category: "",
-    tools: "",
-    image: "",
+ 
+   {
+    title: "P-2",
+    category: "COMING SOON",
+    image: "images/preview.png",
+    tools: "WORK IN PROGRESS",
   },
-  {
-    title: "PROJECT 3",
-    category: "",
-    tools: "",
-    image: "",
+
+   {
+    title: "P-3",
+    category: "COMING SOON",
+    image: "images/preview.png",
+    tools: "WORK IN PROGRESS",
   },
-  {
-    title: "PROJECT 4",
-    category: "",
-    tools: "",
-    image: "",
+
+   {
+    title: "P-4",
+    category: "COMING SOON",
+    image: "images/preview.png",
+    tools: "WORK IN PROGRESS",
   },
-  {
-    title: "PROJECT 5",
-    category: "",
-    tools: "",
-    image: "",
+
+   {
+    title: "P-5",
+    category: "COMING SOON",
+    image: "images/preview.png",
+    tools: "WORK IN PROGRESS",
   },
+
+   {
+    title: "P-6",
+    category: "COMING SOON",
+    image: "images/preview.png",
+    tools: "WORK IN PROGRESS",
+  },
+
 ];
 
 const Work = () => {

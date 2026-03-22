@@ -123,7 +123,7 @@ const WhatIDo = () => {
                 />
               </svg>
             </div>
-            <div className="what-corner"></div>
+            <div className="what-corner">_______________</div>
             <div className="what-content-in">
               <h3>____________</h3>
               <h4>_____________________________</h4>
