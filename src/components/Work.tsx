@@ -14,25 +14,25 @@ const projects = [
     title: "Radix UI Components",
     category: "UI Library",
     tools: "React.js, Radix UI, CSS",
-    image: "/images/radix.png",
+    image: "/images/jatin_1.png",
   },
   {
     title: "Bond Trading Platform",
     category: "Finance App",
     tools: "React.js, Node.js, Express",
-    image: "/images/bond.png",
+    image: "/images/jatin_1.png",
   },
   {
     title: "Sapphire E-commerce",
     category: "E-commerce",
     tools: "Next.js, MongoDB, Stripe",
-    image: "/images/sapphire.png",
+    image: "/images/jatin_1.png",
   },
   {
     title: "Solidx Framework",
     category: "JavaScript Framework",
     tools: "JavaScript, Web Components",
-    image: "/images/Solidx.png",
+    image: "/images/jatin_1.png",
   },
 ];
 
