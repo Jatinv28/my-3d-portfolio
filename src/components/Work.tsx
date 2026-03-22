@@ -5,34 +5,34 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "ME",
-    category: "",
-    tools: "",
-    image: "/images/jatin_1.png",
+    title: " JAVIB AI ",
+    category: "UPCOMING PROJECT",
+    tools: "AI PERSONAL ASSISTANT",
+    image: "/images/JAVIB AI.png",
   },
   {
-    title: "ME",
+    title: "PROJECT 2",
     category: "",
     tools: "",
-    image: "/images/jatin_1.png",
+    image: "",
   },
   {
-    title: "ME",
+    title: "PROJECT 3",
     category: "",
     tools: "",
-    image: "/images/jatin_1.png",
+    image: "",
   },
   {
-    title: "ME",
+    title: "PROJECT 4",
     category: "",
     tools: "",
-    image: "/images/jatin_1.png",
+    image: "",
   },
   {
-    title: "ME",
+    title: "PROJECT 5",
     category: "",
     tools: "",
-    image: "/images/jatin_1.png",
+    image: "",
   },
 ];
 
