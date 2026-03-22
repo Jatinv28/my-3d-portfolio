@@ -14,35 +14,35 @@ const projects = [
    {
     title: "P-2",
     category: "COMING SOON",
-    image: "images/preview.png",
+    image: "images/ppreview.png",
     tools: "WORK IN PROGRESS",
   },
 
    {
     title: "P-3",
     category: "COMING SOON",
-    image: "images/preview.png",
+    image: "images/ppreview.png",
     tools: "WORK IN PROGRESS",
   },
 
    {
     title: "P-4",
     category: "COMING SOON",
-    image: "images/preview.png",
+    image: "images/ppreview.png",
     tools: "WORK IN PROGRESS",
   },
 
    {
     title: "P-5",
     category: "COMING SOON",
-    image: "images/preview.png",
+    image: "images/ppreview.png",
     tools: "WORK IN PROGRESS",
   },
 
    {
     title: "P-6",
     category: "COMING SOON",
-    image: "images/preview.png",
+    image: "images/ppreview.png",
     tools: "WORK IN PROGRESS",
   },
 
