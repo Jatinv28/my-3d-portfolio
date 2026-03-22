@@ -5,33 +5,33 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Web Development",
-    tools: "React.js, TypeScript, Vite",
+    title: "ME",
+    category: "",
+    tools: "",
     image: "/images/jatin_1.png",
   },
   {
-    title: "Radix UI Components",
-    category: "UI Library",
-    tools: "React.js, Radix UI, CSS",
+    title: "ME",
+    category: "",
+    tools: "",
     image: "/images/jatin_1.png",
   },
   {
-    title: "Bond Trading Platform",
-    category: "Finance App",
-    tools: "React.js, Node.js, Express",
+    title: "ME",
+    category: "",
+    tools: "",
     image: "/images/jatin_1.png",
   },
   {
-    title: "Sapphire E-commerce",
-    category: "E-commerce",
-    tools: "Next.js, MongoDB, Stripe",
+    title: "ME",
+    category: "",
+    tools: "",
     image: "/images/jatin_1.png",
   },
   {
-    title: "Solidx Framework",
-    category: "JavaScript Framework",
-    tools: "JavaScript, Web Components",
+    title: "ME",
+    category: "",
+    tools: "",
     image: "/images/jatin_1.png",
   },
 ];
