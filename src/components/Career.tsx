@@ -15,43 +15,35 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>FOUNDATION STARTED FROM ENGLISH MEDIUM SCHOOL</h4>
+                <h5>DELHI WORLD PUBLIC SCHOOL ASHTA MADHYA PRADESH</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+            Completed my 10th grade.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>STARTED COACHING WITH SCHOOL FOR JEE</h4>
+                <h5>ALLEN Career Institute</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2024 & 2025 </h3>
             </div>
-            <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
+            <p>Aimed jee and started preparation , covered my 11th and 12th grade syllabus in ALLEN Career Institute. Also, started learning web development and built some projects using HTML, CSS, JavaScript, ReactJS and NodeJs.</p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Took Drop And Again Gave JEE </h4>
+                <h5>Esaral Online Coaching</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+             I Got Admission in IIIT Hyderabad in CS Branch
             </p>
           </div>
         </div>
